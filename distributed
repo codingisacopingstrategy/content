@@ -1,0 +1,9 @@
+Another key development is the rise of distributed versioning systems. Originally developed to manage software code by diverse contributors, they have become essential to the success of Open Source collaboration. Recent years have seen a large uptake of systems such as Git and Mercurial. ‘Rather than a single, central repository on which clients synchronize, each peer’s working copy of the codebase is a bona-fide repository. Synchronization is conducted by exchanging patches (change-sets) from peer to peer.’
+
+With the development of open file formats, it makes sense to store content in distributed versioning systems. Suddenly, the picture becomes a lot like culture: a peer to peer, endless exchange of changesets. The possibility to fork something you like and make it your own. And if your change are attractive enough, they will get reimplemented in other forks.
+
+The promise lies in the forks: the distributed paradigm allows and even promotes variation between different copies of the same repository. Though computers are associated with uniformity, they are actually well suited to variation and pluriformity.
+
+A distributed architecture lies at the basis of the success of the web. It is codified in the REST architectural style. The key point is, no one has a top down view. There is no single point of failure.
+
+The need for tools that can take advantage of the distributed paradigm is great, since we are already actually utilising the computer in such a way: most people spend a great deal of time distributing and redistributing content over the internet. Right now, though, we hand over our mails, status updates and pictures to the services of a new generation of businesses whose business model depends on us not being in control, and whose centralised servers actually are in many respects a regression. 
