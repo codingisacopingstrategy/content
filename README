@@ -1,0 +1,9 @@
+This is the wiki repository used by the git-wiki at http://dev.liketightpants.net/
+
+Content should now be more independent of implementation.
+
+This README for example was made via the web interface by naming a page README.
+
+I’m using minad’s fork of git-wiki, which creates a bare git repository on the server.
+
+In this repository I added a post commit hook that pushes to GitHub.
