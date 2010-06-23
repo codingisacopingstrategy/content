@@ -6,4 +6,7 @@ This README for example was made via the web interface by naming a page README.
 
 I’m using minad’s fork of git-wiki, which creates a bare git repository on the server.
 
-In this repository I added a post commit hook that pushes to GitHub.
+In this repository I added a post commit hook that pushes to GitHub (which is added as a remote):
+
+#!/bin/sh
+git push origin master
