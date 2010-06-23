@@ -3,9 +3,6 @@ engine: markdown
 ---
 
 * Text
-  * [Content centric](content_centric)
-  * [Distributed](distributed)
-  * [The changing face](changing_face)
-
-* Form
-  * [Pixels are vectors](pixels_are_vectors)
+  * [Content centric](/content_centric)
+  * [Distributed](/distributed)
+  * [The changing face](/changing_face)
